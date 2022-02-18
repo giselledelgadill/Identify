@@ -1,0 +1,8 @@
+body{
+background-image:linear-gradient(to right, blue,orange);
+}
+#camera{
+    border: 3px dashed black;
+    width: 350px;
+    height: 300px;
+}
